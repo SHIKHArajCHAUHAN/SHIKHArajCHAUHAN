@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studing [Electrical Engineering](NIT AGARTALA.)
 
-- 🌱 I’m currently learning **DSA,CSS-HTML,JS,NODE,MONGODB**
+- 🌱 I’m currently learning **DSA,CSS-HTML,JS,REACT,NODE,MONGODB**
 
 - 👯 I’m looking to collaborate on **real life projects.**
 
